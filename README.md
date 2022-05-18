@@ -1,2 +1,2 @@
-20223152 Choi Seunghoon
+20223152	Choi Seunghoon
 Kookmin Univ. SW
