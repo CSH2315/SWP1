@@ -1,2 +1,3 @@
-20223152	Choi Seunghoon
-Kookmin Univ. SW
+20223152    Choi Seunghoon
+Local - COMMIT
+Kookmin Univ. Software
