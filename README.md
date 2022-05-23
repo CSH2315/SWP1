@@ -1,3 +1,3 @@
 20223152    Choi Seunghoon
-Remote - Commit
+Remote - COMMIT
 Kookmin Univ. Software
